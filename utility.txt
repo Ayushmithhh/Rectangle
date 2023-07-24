@@ -1,0 +1,15 @@
+1.Educational Purpose: It can be used as a simple example for beginners learning C programming to understand basic input/output and variable operations.
+
+2.Quick Calculations: If someone needs to find the area of a rectangle, they can run this program and input the length and width, getting the area instantly.
+
+3.Design and Construction: In architecture, engineering, or construction fields, calculating areas of rectangles is a common task when dealing with floor plans or dimensions.
+
+4.Data Entry Verification: In data entry applications, this utility can help verify that the entered dimensions for a rectangle are reasonable by comparing the calculated area with expected values.
+
+5.Automating Tasks: This utility can be integrated into a larger C program to automate calculations that involve rectangles.
+
+
+
+
+
+
